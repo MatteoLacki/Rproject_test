@@ -10,3 +10,5 @@ source("./r_scripts/hello.R")
 print("Hello World")
 
 print( hello(y) )
+source("./r_scripts/goodbye.R")
+print( aufwiedersein(y))
