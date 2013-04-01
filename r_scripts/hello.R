@@ -5,5 +5,5 @@ hello 	<- function( arg )
 
 bye	<- function( arg )
 {
-	return( arg^3 )
+	return( arg^3  )
 }
