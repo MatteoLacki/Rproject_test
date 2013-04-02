@@ -3,7 +3,7 @@
 x <- 1:1000
 
 w <- x%*%x
-z <- sin(x)
+tyg <- sin(x)
 
 print(w)
 
@@ -22,4 +22,4 @@ print( salut(w) )
 
 print( aurevoir(y) )
 
-print( sum( z) )
+print( sum( tyg) )
