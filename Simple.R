@@ -27,3 +27,5 @@ print( sum( tyg) )
 q <- z + tyg
 
 print( sum( tyg) )
+
+print( q%*%q )
