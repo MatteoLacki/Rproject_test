@@ -2,21 +2,21 @@
 
 x <- 1:1000
 
-y <- x%*%x
+w <- x%*%x
 z <- sin(x)
 
-print(y)
+print(w)
 
 source("./r_scripts/hello.R")
 print("Hello World")
 
-print( hello(y) )
+print( hello(w) )
 source("./r_scripts/goodbye.R")
-print( aufwiedersein(y))
+print( aufwiedersein(w))
 
-print( ciao(y) )
+print( ciao(w) )
 
 
 source("./r_scripts/francais.R")
-print( salut(y) )
+print( salut(w) )
 
