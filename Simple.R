@@ -20,3 +20,6 @@ print( ciao(w) )
 source("./r_scripts/francais.R")
 print( salut(w) )
 
+print( aurevoir(y) )
+
+print( sum( z) )
