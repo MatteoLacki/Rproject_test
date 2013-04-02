@@ -31,3 +31,4 @@ print( sum( tyg) )
 % Added new Matteo_Branch.
 
 y <- cos(x)^2 + sin(x)^2
+all( y == rep.int(1, 1000))
