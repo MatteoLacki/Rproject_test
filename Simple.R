@@ -3,6 +3,7 @@
 x <- 1:1000
 
 y <- x%*%x
+z <- sin(x)
 
 print(y)
 
