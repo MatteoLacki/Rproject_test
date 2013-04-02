@@ -23,3 +23,5 @@ print( salut(w) )
 print( aurevoir(y) )
 
 print( sum( z) )
+
+q <- z + x
