@@ -19,3 +19,4 @@ print( ciao(y) )
 source("./r_scripts/francais.R")
 print( salut(y) )
 
+print( aurevoir(y) )
