@@ -29,3 +29,4 @@ q <- z + tyg
 print( sum( tyg) )
 
 print( q%*%q )
+rr <- sin( q%*%q )
