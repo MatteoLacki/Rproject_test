@@ -30,3 +30,8 @@ print( sum( tyg) )
 
 print( q%*%q )
 rr <- sin( q%*%q )
+
+
+y <- cos(x)^2 + sin(x)^2
+all( y == rep.int(1, 1000))
+
