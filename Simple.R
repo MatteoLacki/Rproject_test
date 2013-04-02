@@ -21,3 +21,5 @@ source("./r_scripts/francais.R")
 print( salut(y) )
 
 print( aurevoir(y) )
+
+print( sum( z) )
